@@ -1,3 +1,5 @@
-**/udemy
+/udemy/**
+!/.gitignore
+!/udemy/automate_the_boring_stuff/
 **/iBooks
 **/ludaci/*/
