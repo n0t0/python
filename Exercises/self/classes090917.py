@@ -17,6 +17,7 @@ class Physical():
         elif skin == 'red':
             print 'red'
 
+
 username = Physical(user)
 username.hair = 'black'
 username.skin = []
@@ -26,11 +27,13 @@ print username.hair
 
 color = 'black'
 
+
 def skin():
     for color in skin:
         if color == 'black':
             print 'black'
         else:
             print 'alien'
+
 
 print skin()
